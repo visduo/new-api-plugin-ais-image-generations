@@ -1,16 +1,15 @@
 ---
 changelogVersion: 1
 plugin: "visduo_ais-image-generations"
-version: "3.1.0"
+version: "3.1.1"
 locale: "en"
 translations:
   zh-CN: CHANGELOG.zh-CN.md
 ---
 # Changelog
 
-## [3.1.0]
+## [3.1.1]
 
-### Added
+### Changed
 
-- Create AIS Service image generation and editing tasks through New API.
-- Poll tasks and return generated image URLs.
+- Refine the plugin description in English and Chinese.

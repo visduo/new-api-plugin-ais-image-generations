@@ -3,10 +3,10 @@ export const meta = {
     key: "visduo_ais-image-generations",
     name: "AIS Service Image Generations",
     description: {
-        en: "AIS Service Image Generations",
-        zh: "AIS Service Image Generations",
+        en: "AIS Service image generation integration plugin",
+        zh: "AIS Service 图像生成服务接入插件",
     },
-    version: "3.1.0",
+    version: "3.1.1",
     author: { name: "多栈科技" },
     website: "https://ais.6os.net/",
     fetchMode: "per_task",
