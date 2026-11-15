@@ -6,9 +6,9 @@ export const meta = {
         en: "AIS Service image generation integration plugin",
         zh: "AIS Service 图像生成服务接入插件",
     },
-    version: "3.2.0",
+    version: "3.3.0",
     author: { name: "多栈科技" },
-    website: "https://www.6os.net/",
+    website: "https://www.echostack.net/",
     fetchMode: "per_task",
     upstreams: ["new_api"],
     models: [
