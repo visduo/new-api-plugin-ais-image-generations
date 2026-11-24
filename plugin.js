@@ -1,12 +1,12 @@
 export const meta = {
     apiVersion: 1,
     key: "visduo_ais-image-generations",
-    name: "AIS Service Image Generations",
+    name: "EchoStack Image Generations",
     description: {
-        en: "AIS Service image generation integration plugin",
-        zh: "AIS Service 图像生成服务接入插件",
+        en: "EchoStack image generation integration plugin",
+        zh: "EchoStack 图像生成服务接入插件",
     },
-    version: "3.3.0",
+    version: "3.4.0",
     author: { name: "多栈科技" },
     website: "https://www.echostack.net/",
     fetchMode: "per_task",
